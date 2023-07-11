@@ -8,9 +8,32 @@ We use the Unity game engine to simulate a parking lot environment for our datas
 [F2BEV: Bird's Eye View Generation from Surround-View Fisheye Camera Images for Automated Driving](https://arxiv.org/abs/2303.03651)
 
 ## Dataset
-This is a Plceholder link to download data. It Will be replaced with S3 link after clearing for release to public.  
-[FB-SSEM-dataset download](https://github.com/volvo-cars/FB-SSEM-dataset)
+Links to download FB-SSEM dataset are below. 12000 files per image sequence following this [folder structure](https://fb-ssem.s3.us-west-2.amazonaws.com/readme.txt)  
 
+* [Sequence 0](https://fb-ssem.s3.us-west-2.amazonaws.com/images0.zip)
+* [Sequence 1](https://fb-ssem.s3.us-west-2.amazonaws.com/images1.zip)
+* [Sequence 2](https://fb-ssem.s3.us-west-2.amazonaws.com/images2.zip)
+* [Sequence 3](https://fb-ssem.s3.us-west-2.amazonaws.com/images3.zip)
+* [Sequence 4](https://fb-ssem.s3.us-west-2.amazonaws.com/images4.zip)
+* [Sequence 5](https://fb-ssem.s3.us-west-2.amazonaws.com/images5.zip)
+* [Sequence 6](https://fb-ssem.s3.us-west-2.amazonaws.com/images6.zip)
+* [Sequence 7](https://fb-ssem.s3.us-west-2.amazonaws.com/images7.zip)
+* [Sequence 8](https://fb-ssem.s3.us-west-2.amazonaws.com/images8.zip)
+* [Sequence 9](https://fb-ssem.s3.us-west-2.amazonaws.com/images9.zip)
+* [Sequence 10](https://fb-ssem.s3.us-west-2.amazonaws.com/images10.zip)
+* [Sequence 11](https://fb-ssem.s3.us-west-2.amazonaws.com/images11.zip)
+* [Sequence 12](https://fb-ssem.s3.us-west-2.amazonaws.com/images12.zip)
+* [Sequence 13](https://fb-ssem.s3.us-west-2.amazonaws.com/images13.zip)
+* [Sequence 14](https://fb-ssem.s3.us-west-2.amazonaws.com/images14.zip)
+* [Sequence 15](https://fb-ssem.s3.us-west-2.amazonaws.com/images15.zip)
+* [Sequence 16](https://fb-ssem.s3.us-west-2.amazonaws.com/images16.zip)
+* [Sequence 17](https://fb-ssem.s3.us-west-2.amazonaws.com/images17.zip)
+* [Sequence 18](https://fb-ssem.s3.us-west-2.amazonaws.com/images18.zip)
+* [Sequence 19](https://fb-ssem.s3.us-west-2.amazonaws.com/images19.zip)
+
+## Camera calibration parameters
+* [Camera intrinsics](https://fb-ssem.s3.us-west-2.amazonaws.com/CameraCalibrationParameters/camera_intrinsics.yml)  
+* [Camera positions for extrinsics](https://fb-ssem.s3.us-west-2.amazonaws.com/CameraCalibrationParameters/camera_positions_for_extrinsics.txt)
 ## Legal notice
 * Volvo Cars Technology USA LLC is the sole and exclusive owner of this dataset.
 * The datset is licensed under [CC BY-SA 4.0
