@@ -44,7 +44,7 @@ For e.g., to test the above trained model, run the following
 python3 test_f2bev_attn_st_height.py
 ```
 
-Training and test scripts for the all model types discussed in the [F2BEV paper](https://arxiv.org/abs/2303.03651)) are included in this repository. They are as follows
+Training and test scripts for the all model types discussed in the [F2BEV paper](https://arxiv.org/abs/2303.03651) are included in this repository. They are as follows
 
 
 | <model_type> | Description |
@@ -57,7 +57,7 @@ Training and test scripts for the all model types discussed in the [F2BEV paper]
 | f2bev_conv_mt | To generate discretized BEV height maps and BEV semantic segmentation maps simultaneously using convolution-based task-specific heads |
 
 ## Citation
-If find our code, or a part of it beneficial, please cite the [F2BEV paper](https://arxiv.org/abs/2303.03651)
+If you find our code beneficial, please cite the [F2BEV paper](https://arxiv.org/abs/2303.03651)
 
 ```bash
 @article{samani2023f2bev, 
@@ -68,5 +68,9 @@ year={2023}}
 ```
 
 
-
+## Contact
+Harshavardhan R. Dasari  
+mail    : harshavardhan.reddy.dasari@volvocars.com  
+Ekta Samani  
+mail    : eusamani@gmail.com
 
