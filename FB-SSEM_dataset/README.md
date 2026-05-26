@@ -10,11 +10,11 @@ We use the Unity game engine to simulate a parking lot environment for our datas
 ## Dataset
 Links to download FB-SSEM dataset are below. 12000 files per image sequence as described [here](https://fb-ssem.s3.us-west-2.amazonaws.com/README.pdf)  
 
-* [Link to download data](https://fb-ssem.s3.us-west-2.amazonaws.com/index.html)
+* [Link to download data](https://sunnyvale.z13.web.core.windows.net/)
 
 ## Camera calibration parameters
-* [Camera intrinsics](https://fb-ssem.s3.us-west-2.amazonaws.com/CameraCalibrationParameters/camera_intrinsics.yml)  
-* [Camera positions for extrinsics](https://fb-ssem.s3.us-west-2.amazonaws.com/CameraCalibrationParameters/camera_positions_for_extrinsics.txt)
+* [Camera intrinsics](https://sunnyvale.blob.core.windows.net/f2bev/FB-SSEM-dataset/camera_intrinsics.yml?sv=2026-04-06&si=downloadpolicy&sr=b&sig=wrY5%2FD3BAvufAVErkIhqmdmfiw4mybxgAxsp75OVKwU%3D)  
+* [Camera positions for extrinsics](https://sunnyvale.blob.core.windows.net/f2bev/FB-SSEM-dataset/camera_positions_for_extrinsics.txt?sv=2026-04-06&si=downloadpolicy&sr=b&sig=DTsRQWeiFJEOsJ3F1CbFHYhT5nqMsciipPFzQkKKBY8%3D)
 ## Legal notice
 * Volvo Cars Technology USA LLC is the sole and exclusive owner of this dataset.
 * The datset is licensed under [CC BY-SA 4.0
