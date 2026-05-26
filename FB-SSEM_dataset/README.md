@@ -8,7 +8,7 @@ We use the Unity game engine to simulate a parking lot environment for our datas
 [F2BEV: Bird's Eye View Generation from Surround-View Fisheye Camera Images for Automated Driving](https://arxiv.org/abs/2303.03651)
 
 ## Dataset
-Links to download FB-SSEM dataset are below. 12000 files per image sequence as described [here](https://fb-ssem.s3.us-west-2.amazonaws.com/README.pdf)  
+Links to download FB-SSEM dataset are below. 12000 files per image sequence as described [here](https://sunnyvale.blob.core.windows.net/f2bev/FB-SSEM-dataset/readme.txt?sv=2026-04-06&si=downloadpolicy&sr=b&sig=Y%2FHiiCm3JHkiBI%2FvG0W5J%2Bv4WskBpZYBBmxCFoxf3fo%3D)  
 
 * [Link to download data](https://sunnyvale.z13.web.core.windows.net/)
 
